@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS techhub_db;
+CREATE DATABASE techhub_db;
