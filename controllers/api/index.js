@@ -1,6 +1,6 @@
 const router = require('express').Router();
-const userRoutes = require('./userroutes');
-const commentRoutes = require('./commentroutes');
+const userRoutes = require('./user-routes');
+const commentRoutes = require('./post-routes');
 const homeRoutes = require('./homeroutes');
 
 router.use('/', homeroutes);
