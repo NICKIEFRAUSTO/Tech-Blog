@@ -1,7 +1,13 @@
 [
     {
-        "title": 
-        "article":
+        "title": "Advantages of JavaScript",
+        "article":"Javascript plays nicely with other languages. It is very fast, because it can be run immediately with in the client browser. Simplicity, Javascript is reletively easy to  learn and implement. Javascript is popular, it is used everywhere on the web. Being a client side it reduces the demand on the website server.",
+        "author": "Ayush Gupta"
         
+    },
+    {
+        "title":"Advantages of Using PHP Frameworks",
+        "article":"Speed up custom web application development, The tools, features, and code snippets provided by PHP frameworks help developers to accelerate custom web application development.  Simplify web application maintenance,  The PHP frameworks simplify web application development and maintenance by supporting model-view-controller (MVC) architecture. The PHP frameworks reduce coding time significantly by providing code generation feature.",
+        "author": "Mindfire Solutions"
     }
 ]
